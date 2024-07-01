@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "storybook",
+        "title": "facilis provident dolores eligendi fuga qui. Soluta in, laudantium facere maxime provident autem? Odit, velit! Itaque commodi",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719577170~exp=1719580770~hmac=0fe83a37b9056f8fe777c391a5dd1e7ba5af2b252e7f54c44357cfb77a778a14&w=740"
+    },
+    {
+        "id": 2,
+        "name": "storybook_2",
+        "title": "facilis provident dolores eligendi fuga qui. Soluta in, laudantium facere maxime provident autem? Odit, velit! Itaque commodi",
+        "price": 80,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719577170~exp=1719580770~hmac=0fe83a37b9056f8fe777c391a5dd1e7ba5af2b252e7f54c44357cfb77a778a14&w=740"
+    },
+    {
+        "id": 3,
+        "name": "storybook_3",
+        "title": "facilis provident dolores eligendi fuga qui. Soluta in, laudantium facere maxime provident autem? Odit, velit! Itaque commodi",
+        "price": 50,
+        "category": "Action",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719577170~exp=1719580770~hmac=0fe83a37b9056f8fe777c391a5dd1e7ba5af2b252e7f54c44357cfb77a778a14&w=740"
+    },
+    {
+        "id": 4,
+        "name": "storybook_4",
+        "title": "facilis provident dolores eligendi fuga qui. Soluta in, laudantium facere maxime provident autem? Odit, velit! Itaque commodi",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719577170~exp=1719580770~hmac=0fe83a37b9056f8fe777c391a5dd1e7ba5af2b252e7f54c44357cfb77a778a14&w=740"
+    },
+    {
+        "id": 5,
+        "name": "storybook_5",
+        "title": "facilis provident dolores eligendi fuga qui. Soluta in, laudantium facere maxime provident autem? Odit, velit! Itaque commodi",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719577170~exp=1719580770~hmac=0fe83a37b9056f8fe777c391a5dd1e7ba5af2b252e7f54c44357cfb77a778a14&w=740"
+    },
+    {
+        "id": 7,
+        "name": "storybook_7",
+        "title": "facilis provident dolores eligendi fuga qui. Soluta in, laudantium facere maxime provident autem? Odit, velit! Itaque commodi",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719577170~exp=1719580770~hmac=0fe83a37b9056f8fe777c391a5dd1e7ba5af2b252e7f54c44357cfb77a778a14&w=740"
+    },
+    {
+        "id": 8,
+        "name": "storybook_8",
+        "title": "facilis provident dolores eligendi fuga qui. Soluta in, laudantium facere maxime provident autem? Odit, velit! Itaque commodi",
+        "price": 25,
+        "category": "Romance",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719577170~exp=1719580770~hmac=0fe83a37b9056f8fe777c391a5dd1e7ba5af2b252e7f54c44357cfb77a778a14&w=740"
+    },
+    {
+        "id": 9,
+        "name": "storybook_9",
+        "title": "facilis provident dolores eligendi fuga qui. Soluta in, laudantium facere maxime provident autem? Odit, velit! Itaque commodi",
+        "price": 100,
+        "category": "Action",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719577170~exp=1719580770~hmac=0fe83a37b9056f8fe777c391a5dd1e7ba5af2b252e7f54c44357cfb77a778a14&w=740"
+    },
+    {
+        "id": 10,
+        "name": "storybook_10",
+        "title": "facilis provident dolores eligendi fuga qui. Soluta in, laudantium facere maxime provident autem? Odit, velit! Itaque commodi",
+        "price": 70,
+        "category": "Biopic",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719577170~exp=1719580770~hmac=0fe83a37b9056f8fe777c391a5dd1e7ba5af2b252e7f54c44357cfb77a778a14&w=740"
+    }
+]
