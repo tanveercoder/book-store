@@ -36,9 +36,9 @@ app.use("/user", userRoute);
 
 if (process.env.MODE_ENV === "production"){
     const dirPath=path.resolve();
-    app.use(express.static("Frontend/dist"));
+    app.use(express.static("Client/dist"));
     app.get("*",(req,res)=>{
-        res.sendFile(path.resolve(dirPath,"Frontend","dist","index.html"));
+        res.sendFile(path.resolve(dirPath,"Client","dist","index.html"));
     })
 }
 
