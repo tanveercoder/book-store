@@ -34,7 +34,7 @@ app.use("/book", bookRoute);
 app.use("/user", userRoute);
 
 
-if (process.env.MODE_ENV === "production"){
+if (process.env.NODE_ENV === "production"){
     const dirPath=path.resolve();
     app.use(express.static("Client/dist"));
     app.get("*",(req,res)=>{
